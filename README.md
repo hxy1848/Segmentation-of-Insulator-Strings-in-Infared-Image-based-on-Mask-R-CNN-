@@ -3,6 +3,7 @@
 A simple application of  Mask-RCNN in Power System
 
 Using 637 infrared  images of transmission lines in Shenzhen, Guandong Province, China
+
 Mask R-CNN scores well on this images
 <div align=center><img width="320" height="240" src="https://user-images.githubusercontent.com/20104438/54264308-c3e90d80-45ad-11e9-9804-22d40f4ce362.jpg"/></div>
 
